@@ -1,67 +1,98 @@
 [
     {
-        "collection": "Solarians",
-        "attribute_name": "Title",
-        "attribute_value": "Prospector",
-        "value": 20 
+        "collection": "Solana Droid Business",
+        "value": 1.5
     },
     {
-        "collection": "Solarians",
-        "attribute_name": "Title",
-        "attribute_value": "Monitor",
-        "value": 20
+        "collection": "The Sneks",
+        "attribute_name": "snake type",
+        "attribute_value": "2 headed",
+        "value": 1
     },
     {
-        "collection": "Solarians",
-        "attribute_name": "Title",
-        "attribute_value": "Guard",
-        "value": 17
-    },
-    {
-        "collection": "Skeleton Crew Skulls",
-        "attribute_name": "Headgear",
-        "attribute_value": "Cherry",
-        "value": 20
-    },
-    {
-        "collection": "Skeleton Crew Skulls",
-        "attribute_name": "Skull",
-        "attribute_value": "Gold",
-        "value": 20
-    },
-    {
-        "collection": "Skeleton Crew Skulls",
-        "attribute_name": "Skull",
-        "attribute_value": "Nebula",
-        "value": 12
-    },
-    {
-        "collection": "Skeleton Crew Skulls",
-        "attribute_name": "Skull",
-        "attribute_value": "Ramen",
-        "value": 17
-    },
-    {
-        "collection": "Skeleton Crew Skulls",
+        "collection": "Piggy Sol Gang",
         "attribute_name": "Eyes",
-        "attribute_value": "Diamonds",
-        "value": 20
-    }
-    ,
+        "attribute_value": "Dollar Sign Googles",
+        "value": 1.8
+    },
     {
-        "collection": "Skeleton Crew Skulls",
-        "attribute_name": "Skull",
-        "attribute_value": "Zombie Brains",
+        "collection": "The Sneks",
+        "value": 0.35
+    },
+    {
+        "collection": "Piggy Sol Gang",
+        "value": 1.4
+    },
+    {
+        "collection": "Piggy Girl Gang",
+        "value": 0.5
+    },
+    {
+        "collection": "Baby Apes",
+        "value": 1.5
+    },
+    {
+        "collection": "Sockpass",
+        "value": 0.7  
+    },
+    {
+        "collection": "Solsteads",
+        "value": 5
+    },
+    {
+        "collection": "Turtles",
+        "value": 8.5
+    },
+    {
+        "collection": "Galactic Gecko",
+        "value": 5
+    },
+    {
+        "collection": "Meerkat Millionaires",
+        "value": 4
+    },
+    {
+        "collection": "Playground Waves",
+        "value": 5
+    },
+    {
+        "collection": "Aurory",
+        "value": 5
+    },
+    {
+        "collection": "Degen Ape Academy",
+        "value": 5
+    },
+    {
+        "collection": "Solana Monkey Business",
+        "value": 10
+    },
+    {
+        "collection": "Thug Birdz",
+        "value": 10
+    },
+    {
+        "collection": "Doge Capital",
+        "value": 1.2
+    },
+    {
+        "collection": "The Tower",
+        "value": 1.4
+    },
+    {
+        "collection": "Boryoku Dragonz",
         "value": 15
     },
     {
-        "collection": "Solarians",
-        "attribute_name": "Title",
-        "attribute_value": "Drone",
-        "value": 12
+        "collection": "Nyan Heroes",
+        "attribute_name": "Rarity",
+        "attribute_value": "Rare",
+        "value": 8
     },
     {
-        "collection": "Skeleton Crew Skulls",
+        "collection": "Nyan Heroes",
+        "attribute_name": "Rarity",
+        "attribute_value": "Legendary",
         "value": 8
     }
 ]

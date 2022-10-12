@@ -1,10 +1,156 @@
 {
-  "Skeleton Crew Skulls": {
-    "de": "Skeleton%20Crew%20SKULLS",
-    "solanart": "skeletoncrew"
+  "Piggy Sol Gang": {
+    "de": "Piggy%20Sol%20Gang",
+    "solanart": "piggysolgang",
+    "alphart" : "piggy-sol-gang",
+    "magiceden" : "piggy_sol_gang",
+    "moonrank" : "piggysolgang"
   },
-  "Solarians": {
-    "de": "Solarians",
-    "solanart": ""
+  "Piggy Girl Gang": {
+    "de": "",
+    "solanart": "",
+    "alphart" : "piggy-girl-gang",
+    "magiceden" : "",
+    "moonrank" : ""
+  },
+  "Baby Apes": {
+    "de": "",
+    "solanart": "babyapes",
+    "alphart" : "babyapes",
+    "magiceden" : "babyapes",
+    "moonrank" : "babyapes"
+  },
+  "The Sneks": {
+    "de": "The%20Sneks",
+    "solanart": "thesneks",
+    "alphart" : "",
+    "magiceden" : "",
+    "moonrank" : "sneks"
+  },
+  "Sockpass": {
+    "de": "",
+    "solanart": "",
+    "alphart" : "sockpass",
+    "magiceden" : "sockpass",
+    "moonrank" : ""
+  },
+  "Solsteads": {
+    "de": "Solsteads%20Surreal%20Estate",
+    "solanart": "solsteads",
+    "alphart" : "solstead",
+    "magiceden" : "solsteads_surreal_estate",
+    "moonrank" : "solsteads"
+  },
+  "Turtles": {
+    "de": "Turtles",
+    "solanart": "turtles",
+    "alphart" : "turtles",
+    "magiceden" : "turtles",
+    "moonrank" : "turtles"
+  },
+  "Galactic Gecko": {
+    "de": "Galactic%20Gecko%20Space%20Garage",
+    "solanart": "galacticgeckospacegarage",
+    "alphart" : "",
+    "magiceden" : "",
+    "moonrank" : "galacticgeckos"
+  },
+  "Meerkat Millionaires": {
+    "de": "Meerkat%20Millionaires%20Country%20Club",
+    "solanart": "meerkatmillionairescc",
+    "alphart" : "",
+    "magiceden" : "meerkat_millionaires_country_club",
+    "moonrank" : "meerkatmillionaires"
+  },
+  "Playground Waves": {
+    "de": "Playground:%20Waves",
+    "solanart": "playground",
+    "alphart" : "",
+    "magiceden" : "playground_waves",
+    "moonrank" : ""
+  },
+  "Aurory": {
+    "de": "Aurory",
+    "solanart": "aurory",
+    "alphart" : "aurory",
+    "magiceden" : "aurory",
+    "moonrank" : "aurory"
+  },
+  "Degen Ape Academy": {
+    "de": "Degenerate%20Ape%20Academy",
+    "solanart": "degenape",
+    "alphart" : "dape",
+    "magiceden" : "",
+    "moonrank" : "degenapes"
+  },
+  "Solana Monkey Business": {
+    "de": "Solana%20Monkey%20Business",
+    "solanart": "",
+    "alphart" : "smb",
+    "magiceden" : "",
+    "moonrank" : "smb"
+  },
+  "Thug Birdz": {
+    "de": "Thugbirdz",
+    "solanart": "thugbirdz",
+    "alphart" : "thugbirdz",
+    "magiceden" : "thugbirdz",
+    "moonrank" : "thugbirdz"
+  },
+  "Doge Capital": {
+    "de": "",
+    "solanart": "dogecapital",
+    "alphart" : "",
+    "magiceden" : "doge_capital",
+    "moonrank" : "dogecapital"
+  },
+  "Secret Duck Society": {
+    "de": "",
+    "solanart": "",
+    "alphart" : "",
+    "magiceden" : "secret_duck_society",
+    "moonrank" : "secretducksociety"
+  },
+  "Solana Droid Business": {
+    "de": "",
+    "solanart": "",
+    "alphart" : "",
+    "magiceden" : "solana_droid_business",
+    "moonrank" : "solanadroidbusiness"
+  },
+  "The Tower": {
+    "de": "",
+    "solanart": "thetower",
+    "alphart" : "the-tower",
+    "magiceden" : "",
+    "moonrank" : "towerdao"
+  },
+  "Goblin Laboratory": {
+    "de": "",
+    "solanart": "goblinlaboratory",
+    "alphart" : "",
+    "magiceden" : "goblin_laboratory",
+    "moonrank" : "goblinlab"
+  },
+  "Chicken Tribe": {
+    "de": "",
+    "solanart": "",
+    "alphart" : "",
+    "magiceden" : "chicken_tribe",
+    "moonrank" : "chickentribe"
+  },
+  "Boryoku Dragonz": {
+    "de": "",
+    "solanart": "boryokudragonz",
+    "alphart" : "",
+    "magiceden" : "boryoku_dragonz",
+    "moonrank" : "boryokudragonz"
+  },
+  "Nyan Heroes": {
+    "de": "",
+    "solanart": "nyanheroes",
+    "alphart" : "",
+    "magiceden" : "nyan_heroes",
+    "moonrank" : ""
   }
 }
